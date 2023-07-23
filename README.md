@@ -1,3 +1,4 @@
 # rplace-2023
 r/Place 2023 Script
-https://yaso09.github.io/rplace-2023
+Buradan açın (atatürk ve türkiye): https://yaso09.github.io/rplace-2023
+Bu proje Yasir Eymen KAYABAŞI tarafından Burdurland topluluğuna sevgilerler yapıldı :)
