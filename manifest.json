@@ -6,13 +6,18 @@
   
       {
   
-        "name": "test",
+        "name": "Türk Bayrağı",
   
         "sources": [
   
-          "https://r-place-2023.vercel.app/output.png"
+          "https://cdn.discordapp.com/attachments/1132430004685381682/1132438074723418223/Untitled_Artwork.png"
   
-        ]
+        ],
+  
+        "x": 632,
+  
+        "y": 791
+  
       }
   
     ],
