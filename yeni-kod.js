@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         RPlace 2023
+// @name         RPlace 2023 Yasir Eymen KAYABAŞI
 // @namespace    https://yaso09.github.io/
 // @version      1.2
-// @description  Discord: @yaso09 ve @yasocuk, Github: https://github.com/yaso09/rplace-2023
-// @author       okunamayanad
+// @description  Discord: @yaso09/@yasocuk, Github: https://github.com/yaso09/rplace-2023
+// @author       Yasir Eymen KAYABAŞI
 // @match        https://garlic-bread.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
 // @license MIT
-// @downloadURL        https://github.com/okunamayanad/rplace-2023/raw/main/eskisi.js
-// @updateURL        https://github.com/okunamayanad/rplace-2023/raw/main/eskisi.js 
+// @downloadURL        https://github.com/yaso09/rplace-2023/raw/main/yeni-kod.js
+// @updateURL        https://github.com/yaso09/rplace-2023/raw/main/yeni-kod.js 
 // ==/UserScript==
 console.log("1");
 if (window.top !== window.self) {
@@ -18,7 +18,7 @@ if (window.top !== window.self) {
     // Load the image
     const image = document.createElement("img");
     var d = new Date();
-    image.src = "https://cdn.discordapp.com/attachments/1132704106650288201/1132704197909950514/turkey-and-ataturk.png?" + d.getTime();
+    image.src = "https://yaso09.github.io/rplace-2023/output.png?" + d.getTime();
     image.onload = () => {
         image.style = `position: absolute; left: 0; top: 0; width: ${image.width / 3}px; height: ${image.height / 3}px; image-rendering: pixelated; z-index: 1`;
     };
